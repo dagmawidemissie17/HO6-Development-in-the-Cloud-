@@ -10,7 +10,7 @@
 - **`/users`**
 
   - **Method** - POST
-    - **Summary** - Add a new user
+    - **Summary** - Create User
     - **OperationId** - addUser
     - **Parameters:**
       - **Location** - body (JSON of new user information)
