@@ -1,6 +1,6 @@
 # Task Management API: `api.tasks.testsite01.com`
 
-- **Title** - Task Management App
+ **Title** - REST API for a Task Management Application
 - **Contact Email** - Dagmawi.Demissie@seattlecolleges.edu
 - **Host** - api.tasks.testsite01.com
 - **Schemes** - https
