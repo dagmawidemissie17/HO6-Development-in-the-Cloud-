@@ -5,9 +5,8 @@
 - **Host** - api.tasks.testsite01.com
 - **Schemes** - https
 
-## Paths
 
-| **__EMPTY**                              | **POST**                                    | **GET**                                  | **PUT/PATCH**           | **DELETE**  |
+|## Paths                            | **POST**                                    | **GET**                                  | **PUT/PATCH**           | **DELETE**  |
 |------------------------------------------|---------------------------------------------|------------------------------------------|-------------------------|-------------|
 | /users                                   | Create User                                 | List All Users                           | \-\-                    | \-\-        |
 | Input: JSON                              | Input: \-\-                                 |
